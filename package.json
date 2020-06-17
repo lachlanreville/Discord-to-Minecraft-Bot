@@ -1,0 +1,24 @@
+{
+  "name": "buffer-bot",
+  "version": "1.0.0",
+  "description": "suck my ass",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "penis"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "mineflayer": "^2.10.0",
+    "moment": "^2.24.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "sequelize": "^5.18.0",
+    "sqlite3": "^4.1.1"
+  }
+}

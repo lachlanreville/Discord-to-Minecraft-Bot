@@ -15,7 +15,7 @@
     "discord.js": "^11.5.1",
     "fs": "0.0.1-security",
     "mineflayer": "^2.10.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "randomstring": "^1.1.5",
     "request": "^2.88.0",
     "sequelize": "^5.18.0",
